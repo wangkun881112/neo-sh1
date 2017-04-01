@@ -1,4 +1,4 @@
-package main;
+package neo.main;
 
 public class TestSubString {
 

@@ -1,4 +1,4 @@
-package main;
+package neo.main;
 
 import java.util.UUID;
 
